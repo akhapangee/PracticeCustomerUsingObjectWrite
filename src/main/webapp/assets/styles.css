@@ -1,0 +1,32 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 1, 2018, 3:14:41 PM
+    Author     : Akhilesh
+*/
+body{
+    background: green;
+}
+.button{
+    padding:10px; 
+    margin: 5px; 
+    width:100px;
+    background: purple; 
+    border-radius: 10px;
+    color:white;
+    float:right;
+}
+a.button:hover{
+    background: green;
+}
+a.button{
+    color: #fff;
+    text-decoration: none;
+}
+th{
+    text-align: left;
+}
+
